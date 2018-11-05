@@ -1,4 +1,4 @@
-﻿using Test2.Pets;
+﻿using Test2;
 
 namespace Test
 {
@@ -6,8 +6,7 @@ namespace Test
     {
         public static void Main(string[] args)
         {
-            IPet blackTabby = new Cat(PetColor.Black);
-            blackTabby.MakeSound();
+            var x = new Class1();
         }
     }
 }
