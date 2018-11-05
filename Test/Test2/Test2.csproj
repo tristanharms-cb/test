@@ -39,6 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Pets\Cat.cs" />
+    <Compile Include="Pets\Dog.cs" />
+    <Compile Include="Pets\IPet.cs" />
     <Compile Include="Pets\PetColor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
